@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1581791489 source:c:\users\dell\desktop\sakib_project\customer.cpp
+	"customer.h"
+	"laptop.h"
+
+1581791187 c:\users\dell\desktop\sakib_project\customer.h
+	"laptop.h"
+
+1581793152 c:\users\dell\desktop\sakib_project\laptop.h
+	"laptop.h"
+	<cstring>
+	<bits/stdc++.h>
+
+1581792763 source:c:\users\dell\desktop\sakib_project\main.cpp
+	<iostream>
+	"customer.h"
+	"salesman.h"
+	"laptop.h"
+
+1581793139 c:\users\dell\desktop\sakib_project\salesman.h
+	"salesman.h"
+	"laptop.h"
+
+1581793139 source:c:\users\dell\desktop\sakib_project\salesman.cpp
+	"salesman.h"
+
